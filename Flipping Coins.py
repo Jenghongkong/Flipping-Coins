@@ -1,1 +1,0 @@
-import randomif True:    a = random.randint(1,2)    if a==1:        print("biased ")    else:        print("unbiased ")
