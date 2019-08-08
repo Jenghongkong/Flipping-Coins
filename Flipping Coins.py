@@ -1,1 +1,0 @@
-import mathimport randomprint("Welcome to Flipping Coins program")if True:    a = random.randint(1,2)    if a==1:        print("biased")    else:        print("unbiased")
